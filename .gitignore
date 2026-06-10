@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit config
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large dataset and model checkpoints (recreatable via app / scripts)
+data/wearable_sensor_data.csv
+models/
