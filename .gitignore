@@ -15,7 +15,3 @@ env/
 # OS generated files
 .DS_Store
 Thumbs.db
-
-# Large dataset and model checkpoints (recreatable via app / scripts)
-data/wearable_sensor_data.csv
-models/
